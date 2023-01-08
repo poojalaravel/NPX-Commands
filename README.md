@@ -15,7 +15,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 import { BrowserRouter as Router , Routes, Route, Link } from "react-router-dom";
 
 
-function code Add function whatever you want 
+function code Add function Name whatever you want 
 
 
          <Navbar  bg="primary" expand="lg">
